@@ -1,0 +1,1 @@
+{"uuid":"d7371f08-f9a3-427c-a42d-b831ab9fbc89","name":"base1lab.testbaselab.setup","children":["ff6e666b-1409-4e15-9a70-1af582a0b81a"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736763161553,"stop":1736763164550}],"afters":[],"start":1736763161552,"stop":1736763164551}
